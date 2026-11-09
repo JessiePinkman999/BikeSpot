@@ -1,0 +1,34 @@
+{
+    "2": {
+        "name": "Super",
+        "price": 900,
+        "status": "доступен"
+    },
+    "3": {
+        "name": "aist",
+        "price": 700,
+        "status": "доступен"
+    },
+    "4": {
+        "name": "Gorniy",
+        "price": 1500,
+        "status": "доступен"
+    },
+    "5": {
+        "name": "Stels",
+        "price": 800,
+        "status": "доступен"
+    },
+    "6": {
+        "name": "trail",
+        "type": "горный",
+        "price": 1500,
+        "status": "доступен"
+    },
+    "7": {
+        "name": "freeride",
+        "type": "городской",
+        "price": 990,
+        "status": "доступен"
+    }
+}
